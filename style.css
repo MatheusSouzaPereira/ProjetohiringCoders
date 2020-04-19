@@ -1,0 +1,104 @@
+     html, body {
+                margin:0;
+                padding:0;
+            }
+
+            html {
+                background:rgb(229,229,229);
+            }
+            main {
+                width:75%;
+                margin:auto;
+                box-shadow:0 0 10px #999999;
+                background-color:rgb(255,255,255);
+                min-width:745px;
+            }
+            img{
+                width: 100%;
+                height: 550px;
+    
+                }
+                section sobre {
+                font-size: 250%;
+                }
+
+            header {
+                width:100%;
+                height:20px;
+                background-color:black;	
+            }
+
+            nav {
+                width:100%;
+                height:50px;
+                background-color:black;
+            }
+
+            nav a {
+                float:left;
+                font-family: sans-serif;
+                color: white ;
+                text-decoration: none;
+                padding:10px 2%;
+                text-align: center;
+                font-size:14px;
+
+            }
+
+            .conteudo {
+                float:left;
+                margin-top: 10 px;
+                margin-bottom:30px;
+                padding:0 2%;
+                text-align: left
+            }
+
+            .conteudo h1, .conteudo h2 ,. conteudo h3 , . conteudo h4{
+                font-family: sans-serif;
+                color:black ;
+                font-size:px;
+
+            }
+                .conteudo img{
+                display: inline;
+                padding-bottom: 2px ;
+                padding-right:  3px;
+    
+}
+
+            .conteudo h1 { font-size:250% ; }
+            .conteudo h2 { font-size:250%; margin-top: 0;  }
+            .conteudo h3 {font-size: 200%}
+             .conteudo h4 {font-size: 200%}
+            .conteudo h5 { font-size: 200%}
+            .conteudo h6 { font-size: 200%}
+
+            
+
+
+            .conteudo p {
+                font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+                line-height:200%;
+                margin:0;padding:5px;
+            }
+                .conteudo b {
+                font-size:20px;
+                }
+            .conteudo img {
+                float:left;
+                margin-right:10px;
+            }
+
+            .apoio {
+                float:right;
+                height:500px;
+                background-color:rgb(221,221,221);
+                margin-top:10px;
+            }
+
+            footer {
+                clear:both;
+                width:100%;
+                height:60px;
+                background-color:rgb(153,153,153);
+            }
